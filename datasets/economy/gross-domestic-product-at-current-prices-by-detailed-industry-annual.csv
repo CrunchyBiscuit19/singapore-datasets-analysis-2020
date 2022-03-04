@@ -1,0 +1,650 @@
+year,level_1,level_2,level_3,value
+1960,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,228.2
+1960,GDP At Current Market Prices,Goods Producing Industries,Construction,67.7
+1960,GDP At Current Market Prices,Goods Producing Industries,Utilities,57
+1960,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,79.9
+1960,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,601.5
+1960,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,256.3
+1960,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,81.5
+1960,GDP At Current Market Prices,Services Producing Industries,Information & Communications,50.3
+1960,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,71.9
+1960,GDP At Current Market Prices,Services Producing Industries,Business Services,146.4
+1960,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,330.8
+1961,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,241.1
+1961,GDP At Current Market Prices,Goods Producing Industries,Construction,93.6
+1961,GDP At Current Market Prices,Goods Producing Industries,Utilities,60
+1961,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,82.2
+1961,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,652.9
+1961,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,272.8
+1961,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,86.5
+1961,GDP At Current Market Prices,Services Producing Industries,Information & Communications,51.3
+1961,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,86.5
+1961,GDP At Current Market Prices,Services Producing Industries,Business Services,162.3
+1961,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,359.1
+1962,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,271.4
+1962,GDP At Current Market Prices,Goods Producing Industries,Construction,104.4
+1962,GDP At Current Market Prices,Goods Producing Industries,Utilities,69.2
+1962,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,90.8
+1962,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,685.4
+1962,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,280.4
+1962,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,91.1
+1962,GDP At Current Market Prices,Services Producing Industries,Information & Communications,54.4
+1962,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,97.9
+1962,GDP At Current Market Prices,Services Producing Industries,Business Services,199.8
+1962,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,383.1
+1963,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,328.5
+1963,GDP At Current Market Prices,Goods Producing Industries,Construction,127.6
+1963,GDP At Current Market Prices,Goods Producing Industries,Utilities,71.4
+1963,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,91.3
+1963,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,795.6
+1963,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,286.7
+1963,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,97.1
+1963,GDP At Current Market Prices,Services Producing Industries,Information & Communications,56.5
+1963,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,107.7
+1963,GDP At Current Market Prices,Services Producing Industries,Business Services,216.5
+1963,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,424
+1964,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,350.7
+1964,GDP At Current Market Prices,Goods Producing Industries,Construction,150.5
+1964,GDP At Current Market Prices,Goods Producing Industries,Utilities,80.5
+1964,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,91.2
+1964,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,634.9
+1964,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,269.7
+1964,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,100.8
+1964,GDP At Current Market Prices,Services Producing Industries,Information & Communications,57.4
+1964,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,118.3
+1964,GDP At Current Market Prices,Services Producing Industries,Business Services,230.1
+1964,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,437.7
+1965,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,403.9
+1965,GDP At Current Market Prices,Goods Producing Industries,Construction,176.6
+1965,GDP At Current Market Prices,Goods Producing Industries,Utilities,80.4
+1965,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,91.6
+1965,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,665.6
+1965,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,294.2
+1965,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,105.2
+1965,GDP At Current Market Prices,Services Producing Industries,Information & Communications,59.3
+1965,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,130.3
+1965,GDP At Current Market Prices,Services Producing Industries,Business Services,261.3
+1965,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,464.8
+1966,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,473
+1966,GDP At Current Market Prices,Goods Producing Industries,Construction,176.7
+1966,GDP At Current Market Prices,Goods Producing Industries,Utilities,96.6
+1966,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,109.8
+1966,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,795.5
+1966,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,310.3
+1966,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,114.9
+1966,GDP At Current Market Prices,Services Producing Industries,Information & Communications,64.6
+1966,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,148.9
+1966,GDP At Current Market Prices,Services Producing Industries,Business Services,281.1
+1966,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,505.2
+1967,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,547.8
+1967,GDP At Current Market Prices,Goods Producing Industries,Construction,203.1
+1967,GDP At Current Market Prices,Goods Producing Industries,Utilities,119.1
+1967,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,115.4
+1967,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,941.2
+1967,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,342
+1967,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,132.7
+1967,GDP At Current Market Prices,Services Producing Industries,Information & Communications,73.7
+1967,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,165.5
+1967,GDP At Current Market Prices,Services Producing Industries,Business Services,331.6
+1967,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,530.5
+1968,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,659.3
+1968,GDP At Current Market Prices,Goods Producing Industries,Construction,247.4
+1968,GDP At Current Market Prices,Goods Producing Industries,Utilities,134.8
+1968,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,133.1
+1968,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,1066.2
+1968,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,399.2
+1968,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,151.5
+1968,GDP At Current Market Prices,Services Producing Industries,Information & Communications,87.2
+1968,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,211.6
+1968,GDP At Current Market Prices,Services Producing Industries,Business Services,372.8
+1968,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,577.2
+1969,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,821.9
+1969,GDP At Current Market Prices,Goods Producing Industries,Construction,285.4
+1969,GDP At Current Market Prices,Goods Producing Industries,Utilities,146.2
+1969,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,142.9
+1969,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,1259.1
+1969,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,459
+1969,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,169.4
+1969,GDP At Current Market Prices,Services Producing Industries,Information & Communications,94.1
+1969,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,265.7
+1969,GDP At Current Market Prices,Services Producing Industries,Business Services,432.6
+1969,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,616.6
+1970,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,1026.2
+1970,GDP At Current Market Prices,Goods Producing Industries,Construction,388.7
+1970,GDP At Current Market Prices,Goods Producing Industries,Utilities,168.5
+1970,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,150.8
+1970,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,1350.6
+1970,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,529.5
+1970,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,191.8
+1970,GDP At Current Market Prices,Services Producing Industries,Information & Communications,104.4
+1970,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,298.3
+1970,GDP At Current Market Prices,Services Producing Industries,Business Services,508.7
+1970,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,683.1
+1971,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,1288.8
+1971,GDP At Current Market Prices,Goods Producing Industries,Construction,499.2
+1971,GDP At Current Market Prices,Goods Producing Industries,Utilities,185.9
+1971,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,179.1
+1971,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,1508.8
+1971,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,630.2
+1971,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,230.2
+1971,GDP At Current Market Prices,Services Producing Industries,Information & Communications,120.1
+1971,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,356.8
+1971,GDP At Current Market Prices,Services Producing Industries,Business Services,618.3
+1971,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,778.5
+1972,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,1674.5
+1972,GDP At Current Market Prices,Goods Producing Industries,Construction,682
+1972,GDP At Current Market Prices,Goods Producing Industries,Utilities,210.3
+1972,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,183.7
+1972,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,1662.5
+1972,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,773.3
+1972,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,276.7
+1972,GDP At Current Market Prices,Services Producing Industries,Information & Communications,144.8
+1972,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,449.2
+1972,GDP At Current Market Prices,Services Producing Industries,Business Services,742.4
+1972,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,860.8
+1973,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,2213.9
+1973,GDP At Current Market Prices,Goods Producing Industries,Construction,717.1
+1973,GDP At Current Market Prices,Goods Producing Industries,Utilities,246.4
+1973,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,237.7
+1973,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,2238.5
+1973,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,945.1
+1973,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,358.2
+1973,GDP At Current Market Prices,Services Producing Industries,Information & Communications,173.8
+1973,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,626.4
+1973,GDP At Current Market Prices,Services Producing Industries,Business Services,884
+1973,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,994.5
+1974,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,2822.7
+1974,GDP At Current Market Prices,Goods Producing Industries,Construction,916.9
+1974,GDP At Current Market Prices,Goods Producing Industries,Utilities,266.6
+1974,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,258
+1974,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,2879.7
+1974,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,1130.6
+1974,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,415.6
+1974,GDP At Current Market Prices,Services Producing Industries,Information & Communications,213
+1974,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,792.7
+1974,GDP At Current Market Prices,Services Producing Industries,Business Services,1096.8
+1974,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,1246.5
+1975,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,2943
+1975,GDP At Current Market Prices,Goods Producing Industries,Construction,1052.3
+1975,GDP At Current Market Prices,Goods Producing Industries,Utilities,289.2
+1975,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,295.9
+1975,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,2818.5
+1975,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,1261.6
+1975,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,463.1
+1975,GDP At Current Market Prices,Services Producing Industries,Information & Communications,274
+1975,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,987.7
+1975,GDP At Current Market Prices,Services Producing Industries,Business Services,1118.9
+1975,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,1399.3
+1976,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,3313.1
+1976,GDP At Current Market Prices,Goods Producing Industries,Construction,1169.3
+1976,GDP At Current Market Prices,Goods Producing Industries,Utilities,315
+1976,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,306.6
+1976,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,2931
+1976,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,1516.8
+1976,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,508.7
+1976,GDP At Current Market Prices,Services Producing Industries,Information & Communications,303.8
+1976,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,1089.2
+1976,GDP At Current Market Prices,Services Producing Industries,Business Services,1168.4
+1976,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,1483.3
+1977,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,3695.3
+1977,GDP At Current Market Prices,Goods Producing Industries,Construction,1162.4
+1977,GDP At Current Market Prices,Goods Producing Industries,Utilities,334.6
+1977,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,325.7
+1977,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,3221.7
+1977,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,1778
+1977,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,572.8
+1977,GDP At Current Market Prices,Services Producing Industries,Information & Communications,365.2
+1977,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,1131.8
+1977,GDP At Current Market Prices,Services Producing Industries,Business Services,1222.5
+1977,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,1544.8
+1978,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,4279.2
+1978,GDP At Current Market Prices,Goods Producing Industries,Construction,1084.1
+1978,GDP At Current Market Prices,Goods Producing Industries,Utilities,396.2
+1978,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,305.4
+1978,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,3520.7
+1978,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,2187.8
+1978,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,668.1
+1978,GDP At Current Market Prices,Services Producing Industries,Information & Communications,463.8
+1978,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,1354.5
+1978,GDP At Current Market Prices,Services Producing Industries,Business Services,1285.9
+1978,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,1680.7
+1979,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,5338.3
+1979,GDP At Current Market Prices,Goods Producing Industries,Construction,1187.3
+1979,GDP At Current Market Prices,Goods Producing Industries,Utilities,469.4
+1979,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,327.5
+1979,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,3882.4
+1979,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,2420.3
+1979,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,790.2
+1979,GDP At Current Market Prices,Services Producing Industries,Information & Communications,523.1
+1979,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,1612.3
+1979,GDP At Current Market Prices,Services Producing Industries,Business Services,1452.3
+1979,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,1862.7
+1980,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,6862.2
+1980,GDP At Current Market Prices,Goods Producing Industries,Construction,1555.3
+1980,GDP At Current Market Prices,Goods Producing Industries,Utilities,605.9
+1980,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,390.5
+1980,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,4234.4
+1980,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,2958.6
+1980,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,998.9
+1980,GDP At Current Market Prices,Services Producing Industries,Information & Communications,632.3
+1980,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,2293.9
+1980,GDP At Current Market Prices,Services Producing Industries,Business Services,1800.7
+1980,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,2095.9
+1981,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,7818.1
+1981,GDP At Current Market Prices,Goods Producing Industries,Construction,2097.7
+1981,GDP At Current Market Prices,Goods Producing Industries,Utilities,534.4
+1981,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,444.1
+1981,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,4344.4
+1981,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,3382.8
+1981,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,1181.9
+1981,GDP At Current Market Prices,Services Producing Industries,Information & Communications,755.8
+1981,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,3146.3
+1981,GDP At Current Market Prices,Services Producing Industries,Business Services,2503
+1981,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,2422.4
+1982,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,7575.4
+1982,GDP At Current Market Prices,Goods Producing Industries,Construction,3079.6
+1982,GDP At Current Market Prices,Goods Producing Industries,Utilities,672.8
+1982,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,456.5
+1982,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,4681.1
+1982,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,3662.5
+1982,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,1348.1
+1982,GDP At Current Market Prices,Services Producing Industries,Information & Communications,812.8
+1982,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,3660
+1982,GDP At Current Market Prices,Services Producing Industries,Business Services,3169.5
+1982,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,3072.7
+1983,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,8168.9
+1983,GDP At Current Market Prices,Goods Producing Industries,Construction,4155.3
+1983,GDP At Current Market Prices,Goods Producing Industries,Utilities,780.3
+1983,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,448.5
+1983,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,4871.8
+1983,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,4182.6
+1983,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,1399.4
+1983,GDP At Current Market Prices,Services Producing Industries,Information & Communications,860.3
+1983,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,3953.1
+1983,GDP At Current Market Prices,Services Producing Industries,Business Services,3477.3
+1983,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,3510
+1984,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,8931.3
+1984,GDP At Current Market Prices,Goods Producing Industries,Construction,4884.5
+1984,GDP At Current Market Prices,Goods Producing Industries,Utilities,855.9
+1984,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,446.5
+1984,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,4987.7
+1984,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,4458.7
+1984,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,1410.5
+1984,GDP At Current Market Prices,Services Producing Industries,Information & Communications,952.4
+1984,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,4549.2
+1984,GDP At Current Market Prices,Services Producing Industries,Business Services,3613.5
+1984,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,3924.1
+1985,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,8219.7
+1985,GDP At Current Market Prices,Goods Producing Industries,Construction,4042.8
+1985,GDP At Current Market Prices,Goods Producing Industries,Utilities,884.4
+1985,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,376.4
+1985,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,4683.5
+1985,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,4642.4
+1985,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,1388.7
+1985,GDP At Current Market Prices,Services Producing Industries,Information & Communications,964
+1985,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,5069.5
+1985,GDP At Current Market Prices,Services Producing Industries,Business Services,3398.7
+1985,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,4307.6
+1986,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,9247.4
+1986,GDP At Current Market Prices,Goods Producing Industries,Construction,3136.4
+1986,GDP At Current Market Prices,Goods Producing Industries,Utilities,1163.4
+1986,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,293.2
+1986,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,4661.5
+1986,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,4687.6
+1986,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,1367.2
+1986,GDP At Current Market Prices,Services Producing Industries,Information & Communications,980.2
+1986,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,4838.4
+1986,GDP At Current Market Prices,Services Producing Industries,Business Services,3335.2
+1986,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,4318.2
+1987,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,10972.9
+1987,GDP At Current Market Prices,Goods Producing Industries,Construction,2837.6
+1987,GDP At Current Market Prices,Goods Producing Industries,Utilities,1046.6
+1987,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,250.8
+1987,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,5242.7
+1987,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,5181.3
+1987,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,1471.2
+1987,GDP At Current Market Prices,Services Producing Industries,Information & Communications,1113.9
+1987,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,5844.2
+1987,GDP At Current Market Prices,Services Producing Industries,Business Services,3468.1
+1987,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,4567.2
+1988,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,13934.3
+1988,GDP At Current Market Prices,Goods Producing Industries,Construction,2760.4
+1988,GDP At Current Market Prices,Goods Producing Industries,Utilities,1249
+1988,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,222.8
+1988,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,6178.2
+1988,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,6082.9
+1988,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,1719.8
+1988,GDP At Current Market Prices,Services Producing Industries,Information & Communications,1349.8
+1988,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,6201.5
+1988,GDP At Current Market Prices,Services Producing Industries,Business Services,4323.9
+1988,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,5095.4
+1989,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,15511.8
+1989,GDP At Current Market Prices,Goods Producing Industries,Construction,2962.7
+1989,GDP At Current Market Prices,Goods Producing Industries,Utilities,1217.4
+1989,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,218.2
+1989,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,6763.2
+1989,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,6967.4
+1989,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,2101.3
+1989,GDP At Current Market Prices,Services Producing Industries,Information & Communications,1600.1
+1989,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,7142.4
+1989,GDP At Current Market Prices,Services Producing Industries,Business Services,5502.6
+1989,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,5893.7
+1990,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,17203.1
+1990,GDP At Current Market Prices,Goods Producing Industries,Construction,3226.9
+1990,GDP At Current Market Prices,Goods Producing Industries,Utilities,1322.9
+1990,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,228
+1990,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,8655.2
+1990,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,7611.5
+1990,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,2371.4
+1990,GDP At Current Market Prices,Services Producing Industries,Information & Communications,1823.5
+1990,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,9190.9
+1990,GDP At Current Market Prices,Services Producing Industries,Business Services,6616.8
+1990,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,6553.3
+1991,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,19996.9
+1991,GDP At Current Market Prices,Goods Producing Industries,Construction,4258.8
+1991,GDP At Current Market Prices,Goods Producing Industries,Utilities,1363.3
+1991,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,196.4
+1991,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,9797.6
+1991,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,8738.7
+1991,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,2446.8
+1991,GDP At Current Market Prices,Services Producing Industries,Information & Communications,2144
+1991,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,8860.6
+1991,GDP At Current Market Prices,Services Producing Industries,Business Services,7406.8
+1991,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,7325.6
+1992,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,20677.8
+1992,GDP At Current Market Prices,Goods Producing Industries,Construction,5315.4
+1992,GDP At Current Market Prices,Goods Producing Industries,Utilities,1425.1
+1992,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,167.6
+1992,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,9886.2
+1992,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,8741.7
+1992,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,2631.8
+1992,GDP At Current Market Prices,Services Producing Industries,Information & Communications,2467.5
+1992,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,10024.7
+1992,GDP At Current Market Prices,Services Producing Industries,Business Services,8437.9
+1992,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,7947.2
+1993,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,23963.6
+1993,GDP At Current Market Prices,Goods Producing Industries,Construction,5853.2
+1993,GDP At Current Market Prices,Goods Producing Industries,Utilities,1653.7
+1993,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,169.2
+1993,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,12053.8
+1993,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,9734.5
+1993,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,2823.2
+1993,GDP At Current Market Prices,Services Producing Industries,Information & Communications,2902
+1993,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,11609.8
+1993,GDP At Current Market Prices,Services Producing Industries,Business Services,9431.7
+1993,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,8779.5
+1994,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,26590.9
+1994,GDP At Current Market Prices,Goods Producing Industries,Construction,6815.4
+1994,GDP At Current Market Prices,Goods Producing Industries,Utilities,1828.3
+1994,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,194.9
+1994,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,13706.8
+1994,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,10928.1
+1994,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,2989.7
+1994,GDP At Current Market Prices,Services Producing Industries,Information & Communications,3225.2
+1994,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,12590.6
+1994,GDP At Current Market Prices,Services Producing Industries,Business Services,11735.2
+1994,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,10242.1
+1995,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,29852.6
+1995,GDP At Current Market Prices,Goods Producing Industries,Construction,7328
+1995,GDP At Current Market Prices,Goods Producing Industries,Utilities,2015.7
+1995,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,180.3
+1995,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,15378.1
+1995,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,11964.8
+1995,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3239.8
+1995,GDP At Current Market Prices,Services Producing Industries,Information & Communications,3738.5
+1995,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,13029.8
+1995,GDP At Current Market Prices,Services Producing Industries,Business Services,13645.1
+1995,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,10927.2
+1996,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,31455.8
+1996,GDP At Current Market Prices,Goods Producing Industries,Construction,9081
+1996,GDP At Current Market Prices,Goods Producing Industries,Utilities,2307.5
+1996,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,203.7
+1996,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,16968.1
+1996,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,12452.3
+1996,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3441.8
+1996,GDP At Current Market Prices,Services Producing Industries,Information & Communications,4024.9
+1996,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,14155.4
+1996,GDP At Current Market Prices,Services Producing Industries,Business Services,15579.5
+1996,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,12280.4
+1997,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,32931.4
+1997,GDP At Current Market Prices,Goods Producing Industries,Construction,10546.3
+1997,GDP At Current Market Prices,Goods Producing Industries,Utilities,2712.9
+1997,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,197.6
+1997,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,17539.3
+1997,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,13167.8
+1997,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3720.6
+1997,GDP At Current Market Prices,Services Producing Industries,Information & Communications,4508
+1997,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,17863
+1997,GDP At Current Market Prices,Services Producing Industries,Business Services,17013.3
+1997,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,13383.6
+1998,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,32550.8
+1998,GDP At Current Market Prices,Goods Producing Industries,Construction,10688.5
+1998,GDP At Current Market Prices,Goods Producing Industries,Utilities,2798.8
+1998,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,159.8
+1998,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,16206
+1998,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,12878.4
+1998,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3485
+1998,GDP At Current Market Prices,Services Producing Industries,Information & Communications,4651.5
+1998,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,16983.7
+1998,GDP At Current Market Prices,Services Producing Industries,Business Services,16060.1
+1998,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,13509.9
+1999,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,33419.7
+1999,GDP At Current Market Prices,Goods Producing Industries,Construction,9044
+1999,GDP At Current Market Prices,Goods Producing Industries,Utilities,2648.8
+1999,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,162.7
+1999,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,18419.8
+1999,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,13995.3
+1999,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3591
+1999,GDP At Current Market Prices,Services Producing Industries,Information & Communications,5279.8
+1999,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,15376.7
+1999,GDP At Current Market Prices,Services Producing Industries,Business Services,16144
+1999,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,13718.5
+2000,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,42835
+2000,GDP At Current Market Prices,Goods Producing Industries,Construction,8191.5
+2000,GDP At Current Market Prices,Goods Producing Industries,Utilities,2735.3
+2000,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,152.6
+2000,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,20732
+2000,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,15464.5
+2000,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3805.7
+2000,GDP At Current Market Prices,Services Producing Industries,Information & Communications,5722.1
+2000,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,15598.8
+2000,GDP At Current Market Prices,Services Producing Industries,Business Services,17653.6
+2000,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,15745.3
+2001,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,37638.7
+2001,GDP At Current Market Prices,Goods Producing Industries,Construction,7784.6
+2001,GDP At Current Market Prices,Goods Producing Industries,Utilities,3453.2
+2001,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,132.5
+2001,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,20094.1
+2001,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,14233.2
+2001,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3836.2
+2001,GDP At Current Market Prices,Services Producing Industries,Information & Communications,6737.9
+2001,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,16507.6
+2001,GDP At Current Market Prices,Services Producing Industries,Business Services,17435.6
+2001,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,17447.9
+2002,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,40989.8
+2002,GDP At Current Market Prices,Goods Producing Industries,Construction,6685.5
+2002,GDP At Current Market Prices,Goods Producing Industries,Utilities,3269.7
+2002,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,117.7
+2002,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,22246
+2002,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,14135.5
+2002,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3694.8
+2002,GDP At Current Market Prices,Services Producing Industries,Information & Communications,6505.9
+2002,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,16690.6
+2002,GDP At Current Market Prices,Services Producing Industries,Business Services,18222.7
+2002,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,18804.2
+2003,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,42130.4
+2003,GDP At Current Market Prices,Goods Producing Industries,Construction,6025.6
+2003,GDP At Current Market Prices,Goods Producing Industries,Utilities,3261.8
+2003,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,104
+2003,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,22833.1
+2003,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,16035.1
+2003,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3474.1
+2003,GDP At Current Market Prices,Services Producing Industries,Information & Communications,6970.7
+2003,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,16886.9
+2003,GDP At Current Market Prices,Services Producing Industries,Business Services,18338.5
+2003,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,18949.1
+2004,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,52729
+2004,GDP At Current Market Prices,Goods Producing Industries,Construction,5844.6
+2004,GDP At Current Market Prices,Goods Producing Industries,Utilities,3423.1
+2004,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,108.2
+2004,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,27692.7
+2004,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,19236.8
+2004,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3857.7
+2004,GDP At Current Market Prices,Services Producing Industries,Information & Communications,7436.6
+2004,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,18539.1
+2004,GDP At Current Market Prices,Services Producing Industries,Business Services,19944.9
+2004,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,20162.5
+2005,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,57598.5
+2005,GDP At Current Market Prices,Goods Producing Industries,Construction,6010.7
+2005,GDP At Current Market Prices,Goods Producing Industries,Utilities,3202.1
+2005,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,117.1
+2005,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,34655.5
+2005,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,20698.4
+2005,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,3980.7
+2005,GDP At Current Market Prices,Services Producing Industries,Information & Communications,7980.3
+2005,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,19680.3
+2005,GDP At Current Market Prices,Services Producing Industries,Business Services,22167.1
+2005,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,20818.3
+2006,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,62766.3
+2006,GDP At Current Market Prices,Goods Producing Industries,Construction,6485.3
+2006,GDP At Current Market Prices,Goods Producing Industries,Utilities,3708
+2006,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,115.4
+2006,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,42056
+2006,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,20842.7
+2006,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,4303.2
+2006,GDP At Current Market Prices,Services Producing Industries,Information & Communications,8432.8
+2006,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,23508.5
+2006,GDP At Current Market Prices,Services Producing Industries,Business Services,24514
+2006,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,22543
+2007,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,64963.8
+2007,GDP At Current Market Prices,Goods Producing Industries,Construction,8095.8
+2007,GDP At Current Market Prices,Goods Producing Industries,Utilities,3911.4
+2007,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,116.9
+2007,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,49097.7
+2007,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,24637.9
+2007,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,4869.7
+2007,GDP At Current Market Prices,Services Producing Industries,Information & Communications,9147.9
+2007,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,29568.6
+2007,GDP At Current Market Prices,Services Producing Industries,Business Services,30639.5
+2007,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,24185.3
+2008,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,56392.7
+2008,GDP At Current Market Prices,Goods Producing Industries,Construction,11971.2
+2008,GDP At Current Market Prices,Goods Producing Industries,Utilities,3998.7
+2008,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,113.5
+2008,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,45086.1
+2008,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,25177
+2008,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,5355
+2008,GDP At Current Market Prices,Services Producing Industries,Information & Communications,9609
+2008,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,30190
+2008,GDP At Current Market Prices,Services Producing Industries,Business Services,35704.4
+2008,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,25945.8
+2009,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,57250.9
+2009,GDP At Current Market Prices,Goods Producing Industries,Construction,14989.9
+2009,GDP At Current Market Prices,Goods Producing Industries,Utilities,4051.8
+2009,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,114.9
+2009,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,50395.9
+2009,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,21455.1
+2009,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,4970.7
+2009,GDP At Current Market Prices,Services Producing Industries,Information & Communications,10561.5
+2009,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,31589.8
+2009,GDP At Current Market Prices,Services Producing Industries,Business Services,35754.6
+2009,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,26966.1
+2010,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,67926.3
+2010,GDP At Current Market Prices,Goods Producing Industries,Construction,14405.2
+2010,GDP At Current Market Prices,Goods Producing Industries,Utilities,4765
+2010,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,118.3
+2010,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,59177.5
+2010,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,25271.1
+2010,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,6065.5
+2010,GDP At Current Market Prices,Services Producing Industries,Information & Communications,11350.2
+2010,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,33986.8
+2010,GDP At Current Market Prices,Services Producing Industries,Business Services,42214.3
+2010,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,32420
+2011,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,68806.8
+2011,GDP At Current Market Prices,Goods Producing Industries,Construction,14840
+2011,GDP At Current Market Prices,Goods Producing Industries,Utilities,5110.3
+2011,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,121.8
+2011,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,68009.6
+2011,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,22159.2
+2011,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,7228.4
+2011,GDP At Current Market Prices,Services Producing Industries,Information & Communications,12548.8
+2011,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,35298.7
+2011,GDP At Current Market Prices,Services Producing Industries,Business Services,47787.4
+2011,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,35884.9
+2012,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,70497.2
+2012,GDP At Current Market Prices,Goods Producing Industries,Construction,16425
+2012,GDP At Current Market Prices,Goods Producing Industries,Utilities,5354.5
+2012,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,122.9
+2012,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,67637.6
+2012,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,23702.9
+2012,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,7847.4
+2012,GDP At Current Market Prices,Services Producing Industries,Information & Communications,13695.4
+2012,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,37722.1
+2012,GDP At Current Market Prices,Services Producing Industries,Business Services,51304.5
+2012,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,37559.4
+2013,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,67885
+2013,GDP At Current Market Prices,Goods Producing Industries,Construction,17127.3
+2013,GDP At Current Market Prices,Goods Producing Industries,Utilities,5221.4
+2013,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,132.5
+2013,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,68495.3
+2013,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,24756.6
+2013,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,8208.9
+2013,GDP At Current Market Prices,Services Producing Industries,Information & Communications,14774.3
+2013,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,42892.6
+2013,GDP At Current Market Prices,Services Producing Industries,Business Services,55661.5
+2013,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,40293.2
+2014,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,71809.7
+2014,GDP At Current Market Prices,Goods Producing Industries,Construction,19183.8
+2014,GDP At Current Market Prices,Goods Producing Industries,Utilities,5430.3
+2014,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,138
+2014,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,64724.5
+2014,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,27092.7
+2014,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,8665.3
+2014,GDP At Current Market Prices,Services Producing Industries,Information & Communications,15798.6
+2014,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,45968.7
+2014,GDP At Current Market Prices,Services Producing Industries,Business Services,57934.4
+2014,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,42655.3
+2015,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,76598.2
+2015,GDP At Current Market Prices,Goods Producing Industries,Construction,20433.8
+2015,GDP At Current Market Prices,Goods Producing Industries,Utilities,5815.9
+2015,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,138.1
+2015,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,65584.5
+2015,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,30014.6
+2015,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,8763
+2015,GDP At Current Market Prices,Services Producing Industries,Information & Communications,15779.4
+2015,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,49874.5
+2015,GDP At Current Market Prices,Services Producing Industries,Business Services,63122.4
+2015,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,44963.1
+2016,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,77399.3
+2016,GDP At Current Market Prices,Goods Producing Industries,Construction,19707.5
+2016,GDP At Current Market Prices,Goods Producing Industries,Utilities,5603.4
+2016,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,135.9
+2016,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,73937
+2016,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,27680
+2016,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,9224.7
+2016,GDP At Current Market Prices,Services Producing Industries,Information & Communications,17084.4
+2016,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,51127.2
+2016,GDP At Current Market Prices,Services Producing Industries,Business Services,65632.7
+2016,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,47773.1
+2017,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,88184.9
+2017,GDP At Current Market Prices,Goods Producing Industries,Construction,16668.8
+2017,GDP At Current Market Prices,Goods Producing Industries,Utilities,5425.8
+2017,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,122
+2017,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,79782.6
+2017,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,31113.3
+2017,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,9358.8
+2017,GDP At Current Market Prices,Services Producing Industries,Information & Communications,18109.1
+2017,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,55802.4
+2017,GDP At Current Market Prices,Services Producing Industries,Business Services,66010.7
+2017,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,50460.2
+2018,GDP At Current Market Prices,Goods Producing Industries,Manufacturing,102251.6
+2018,GDP At Current Market Prices,Goods Producing Industries,Construction,15962.9
+2018,GDP At Current Market Prices,Goods Producing Industries,Utilities,5571.3
+2018,GDP At Current Market Prices,Goods Producing Industries,Other Goods Industries,122.1
+2018,GDP At Current Market Prices,Services Producing Industries,Wholesale & Retail Trade,81774.5
+2018,GDP At Current Market Prices,Services Producing Industries,Transportation & Storage,31360.1
+2018,GDP At Current Market Prices,Services Producing Industries,Accommodation & Food Services,9735.3
+2018,GDP At Current Market Prices,Services Producing Industries,Information & Communications,19061.3
+2018,GDP At Current Market Prices,Services Producing Industries,Finance & Insurance,60222.3
+2018,GDP At Current Market Prices,Services Producing Industries,Business Services,69045.7
+2018,GDP At Current Market Prices,Services Producing Industries,Other Services Industries,52390.5
